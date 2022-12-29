@@ -1,4 +1,5 @@
 const btnStart = document.querySelector('button[data-start]');
+console.log(btnStart);
 const btnStop = document.querySelector('button[data-stop]');
 const bcgColor = document.querySelector('body');
 
